@@ -1,5 +1,3 @@
-#Riley Wilkins
-#Assignment_3 ICSI 404
 #Data Declaration section
 
 .data 
